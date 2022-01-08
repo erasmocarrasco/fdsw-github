@@ -11,6 +11,27 @@ body {
   background-position: left;
 }
 
+#Hero-Section p,h1{
+  text-shadow: 2px 2px 2px black;
+  color: white;
+}
+
+#Hero-Section p{
+  font-size: 20px;
+}
+
+.icon1{
+  color: blue;
+}
+
+.icon2{
+  color: red;
+}
+
+.icon3{
+  color: green;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
