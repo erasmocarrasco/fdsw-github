@@ -12,30 +12,30 @@ body {
 }
 
 #Hero-Section p,h1{
-  text-shadow: 2px 2px 2px black;
-  color: white;
+  text-shadow: 4px 4px 4px black;
+  color: #ffffff;
 }
 
 #Hero-Section p{
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .icon1{
-  color: blue;
+  color: #0000ff;
 }
 
 .icon2{
-  color: red;
+  color: #ff0000;
 }
 
 .icon3{
-  color: green;
+  color: #008000;
 }
 
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
-  height: 250px;
+  height: 300px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -44,8 +44,12 @@ body {
 /* Contacto */
 
 #Contacto form label {
-  font-weight: 700;
-  color: #373a3c;
+  font-weight: 800;
+  color: #011796bb;
+}
+
+#Contacto{
+  color: #03115fbb;
 }
 
 @media (max-width: 768px) {
